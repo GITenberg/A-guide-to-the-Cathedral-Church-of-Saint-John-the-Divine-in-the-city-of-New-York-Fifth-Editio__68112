@@ -1,11 +1,16 @@
 _repo: A-guide-to-the-Cathedral-Church-of-Saint-John-the-Divine-in-the-city-of-New-York-Fifth-Editio__68112
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68112-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Edward Hagaman
     gutenberg_agent_id: '54608'
     url: http://www.gutenberg.org/2009/agents/54608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68112#A-guide-to-the-Cathedral-Church-of-Saint-John-the-Divine-in-the-city-of-New-York-Fifth-Editio_
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68112'
